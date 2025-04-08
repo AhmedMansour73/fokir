@@ -595,6 +595,79 @@
 
 /* -----------  End BLOG---------------- --*/
 
+/* START Contact */
+
+.contact .contact-info 
+{
+    
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    
+}
+.contact .contact-info .info-name 
+{
+    width: 50%;
+}
+
+.contact .contact-info .info-name .form-control
+{
+     width: 100%;
+     padding: 15px 5px;
+     border: 1px solid var(--secondery-color);
+     border-radius: 7px;
+}
+.contact .contact-info .mar-right
+{
+    margin-right: 40px;
+}
+
+.contact .contact-subject 
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.contact .contact-subject .form-control1
+{
+    width: 100%;
+    padding: 15px 5px;
+    border: 1px solid var(--secondery-color);
+    border-radius: 7px;
+}
+
+
+.contact .contact-message
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.contact .contact-message .form-control2
+{
+    width: 100%;
+    padding: 15px 5px;
+    border: 1px solid var(--secondery-color);
+    border-radius: 7px;
+}
+
+.contact .contact-submit
+{
+    width: 80%;
+    margin: auto;
+}
+.contact .contact-submit .submit-input
+{
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 1px solid var(--secondery-color);
+    border-radius: 7px;
+    background-color: var(--main-color);
+    color: white;
+}
 
 /* START footer */
 
